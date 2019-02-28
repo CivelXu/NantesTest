@@ -1,0 +1,16 @@
+PODS:
+  - Nantes (0.0.5)
+
+DEPENDENCIES:
+  - Nantes
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nantes
+
+SPEC CHECKSUMS:
+  Nantes: fb89e915acbba6b45a2a80a180dad068abe952a5
+
+PODFILE CHECKSUM: 48120218bbc7bded7785db764c4ac285209baec4
+
+COCOAPODS: 1.6.0.beta.1

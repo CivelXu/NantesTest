@@ -1,0 +1,6 @@
+framework module Pods_NantesTest {
+  umbrella header "Pods-NantesTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
